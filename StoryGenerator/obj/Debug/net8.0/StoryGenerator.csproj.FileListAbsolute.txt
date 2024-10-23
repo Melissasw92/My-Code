@@ -1,0 +1,14 @@
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.AssemblyInfoInputs.cache
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.AssemblyInfo.cs
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.csproj.CoreCompileInputs.cache
+/home/melissasw92/StoryGenerator/bin/Debug/net8.0/StoryGenerator
+/home/melissasw92/StoryGenerator/bin/Debug/net8.0/StoryGenerator.deps.json
+/home/melissasw92/StoryGenerator/bin/Debug/net8.0/StoryGenerator.runtimeconfig.json
+/home/melissasw92/StoryGenerator/bin/Debug/net8.0/StoryGenerator.dll
+/home/melissasw92/StoryGenerator/bin/Debug/net8.0/StoryGenerator.pdb
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.dll
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/refint/StoryGenerator.dll
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.pdb
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.genruntimeconfig.cache
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/ref/StoryGenerator.dll

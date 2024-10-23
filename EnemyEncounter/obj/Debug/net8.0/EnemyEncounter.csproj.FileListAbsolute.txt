@@ -1,0 +1,4 @@
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.AssemblyInfoInputs.cache
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.AssemblyInfo.cs
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.csproj.CoreCompileInputs.cache

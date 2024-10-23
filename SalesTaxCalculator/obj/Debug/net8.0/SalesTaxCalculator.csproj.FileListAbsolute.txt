@@ -1,0 +1,14 @@
+/home/melissasw92/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator
+/home/melissasw92/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.deps.json
+/home/melissasw92/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.runtimeconfig.json
+/home/melissasw92/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.dll
+/home/melissasw92/SalesTaxCalculator/bin/Debug/net8.0/SalesTaxCalculator.pdb
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.AssemblyInfoInputs.cache
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.AssemblyInfo.cs
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.csproj.CoreCompileInputs.cache
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.dll
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/refint/SalesTaxCalculator.dll
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.pdb
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/SalesTaxCalculator.genruntimeconfig.cache
+/home/melissasw92/SalesTaxCalculator/obj/Debug/net8.0/ref/SalesTaxCalculator.dll

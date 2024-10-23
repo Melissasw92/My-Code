@@ -1,0 +1,14 @@
+/home/melissasw92/HttpStat/obj/Debug/net8.0/HttpStat.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/HttpStat/obj/Debug/net8.0/HttpStat.AssemblyInfoInputs.cache
+/home/melissasw92/HttpStat/obj/Debug/net8.0/HttpStat.AssemblyInfo.cs
+/home/melissasw92/HttpStat/obj/Debug/net8.0/HttpStat.csproj.CoreCompileInputs.cache
+/home/melissasw92/HttpStat/bin/Debug/net8.0/HttpStat
+/home/melissasw92/HttpStat/bin/Debug/net8.0/HttpStat.deps.json
+/home/melissasw92/HttpStat/bin/Debug/net8.0/HttpStat.runtimeconfig.json
+/home/melissasw92/HttpStat/bin/Debug/net8.0/HttpStat.dll
+/home/melissasw92/HttpStat/bin/Debug/net8.0/HttpStat.pdb
+/home/melissasw92/HttpStat/obj/Debug/net8.0/HttpStat.dll
+/home/melissasw92/HttpStat/obj/Debug/net8.0/refint/HttpStat.dll
+/home/melissasw92/HttpStat/obj/Debug/net8.0/HttpStat.pdb
+/home/melissasw92/HttpStat/obj/Debug/net8.0/HttpStat.genruntimeconfig.cache
+/home/melissasw92/HttpStat/obj/Debug/net8.0/ref/HttpStat.dll

@@ -1,0 +1,14 @@
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/AreaCalculator.AssemblyInfoInputs.cache
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/AreaCalculator.AssemblyInfo.cs
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/AreaCalculator.csproj.CoreCompileInputs.cache
+/home/melissasw92/AreaCalculator/bin/Debug/net8.0/AreaCalculator
+/home/melissasw92/AreaCalculator/bin/Debug/net8.0/AreaCalculator.deps.json
+/home/melissasw92/AreaCalculator/bin/Debug/net8.0/AreaCalculator.runtimeconfig.json
+/home/melissasw92/AreaCalculator/bin/Debug/net8.0/AreaCalculator.dll
+/home/melissasw92/AreaCalculator/bin/Debug/net8.0/AreaCalculator.pdb
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/AreaCalculator.dll
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/refint/AreaCalculator.dll
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/AreaCalculator.pdb
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/AreaCalculator.genruntimeconfig.cache
+/home/melissasw92/AreaCalculator/obj/Debug/net8.0/ref/AreaCalculator.dll
