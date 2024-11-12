@@ -1,0 +1,15 @@
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.sourcelink.json
+/home/melissasw92/ToDoList/bin/Debug/net8.0/ToDoList
+/home/melissasw92/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/home/melissasw92/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/home/melissasw92/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/home/melissasw92/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/home/melissasw92/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/home/melissasw92/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll

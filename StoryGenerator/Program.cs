@@ -1,8 +1,15 @@
-﻿using System;
-using System.Runtime.InteropServices;
+﻿// using System;
+// using System.Runtime.InteropServices;
+// using StoryGenerator.MainCharacter;
+// using StoryGenerator.Locations;
+// using StoryGenerator.Villains;
+// using StoryGenerator.PlotLine;
+// using StoryGenerator.RandomItems;
 
 
-namespace Story
+
+
+namespace StoryGenerator
 {
 
     class StoryGenerator
@@ -112,7 +119,7 @@ namespace Story
             Console.WriteLine();
             Console.WriteLine($"{maincharacter.Name} is pointed in the direction of the home where the leader of the {startingLocation.Name} resides.");
         }
-
+    }
             //hero starts journey to leaders home
 
 
@@ -122,136 +129,136 @@ namespace Story
 
 
 
-        public class MainCharacter
-        {
-            public string Name { get; set; } // Public getter/setter for name
-            public string Age { get; set; } // Public getter/setter for age
-            public string[] hairColor = { "brown", "red", "blonde", "white", "black", "gray", "silver" };
-            public string[] race = { "human", "elf", "half-elf", "fairy", "orc" };
-            public string[] eyeColor = { "brown", "blue", "green", "silver", "purple", "red" };
-            public Role Role { get; set; }
-            public Weapon Weapon { get; set; } // Public getter/setter for role
+        // public class MainCharacter
+        // {
+        //     public string Name { get; set; } // Public getter/setter for name
+        //     public string Age { get; set; } // Public getter/setter for age
+        //     public string[] hairColor = { "brown", "red", "blonde", "white", "black", "gray", "silver" };
+        //     public string[] race = { "human", "elf", "half-elf", "fairy", "orc" };
+        //     public string[] eyeColor = { "brown", "blue", "green", "silver", "purple", "red" };
+        //     public Role Role { get; set; }
+        //     public Weapon Weapon { get; set; } // Public getter/setter for role
 
-        }
-
-
-        public class Role
-        {
-            public string role { get; set; }
-        }
-
-        static Role GenerateRandomRole()
-        {
-            Random rand = new Random();
-            string[] mainCharacterRole = { "blacksmith", "servant", "knight", "rogue", "criminal", "cook", "stable hand", "common folk", "wizard" };
-            return new Role { role = mainCharacterRole[rand.Next(mainCharacterRole.Length)] };
-
-        }
-
-        public class Location
-        {
-            public string Name;
-            public Location(string name)
-            {
-                Name = name;
-            }
-        }
-        static Location GenerateRandomLocation()
-        {
-
-            Random rand = new Random();
-            string[] locations = { "forest", "castle", "village", "mansion", "ancient runes", "tavern", "haunted moutains" };
-            return new Location(locations[rand.Next(locations.Length)]);
-        }
-
-        public class Villain
-        {
-            private string villain;
-            public string villainName
-            {
-                get { return villain; }
-                set { villain = value; }
-            }
-
-        }
-
-        static Villain GenerateRandomVillian()
-        {
-
-            Random rand = new Random();
-            string[] villainType = { "warlock", "evil queen", "evil prince", "sorcerer" };
-            string[] villianCreature = { "dragon", "giant", "squid", "ogre" };
-            return new Villain { villainName = villainType[rand.Next(villainType.Length)] };
-
-        }
-
-        public class Weapon
-        {
-            public string Name;
-            public Weapon(string name)
-            {
-                Name = name;
-            }
-
-        }
-
-        static Weapon GenerateRandonWeapon()
-        {
-            Random rand = new Random();
-            string[] weapons = { "sword", "quarterstaff", "warhammer", "axe", "dagger", "cross bow", "long bow" };
-            int weaponStrength = 15;
-
-            return new Weapon(weapons[rand.Next(weapons.Length)]);
-
-        }
-
-        public class Love
-        {
-            public string loveInterest { get; set; }
-
-        }
-        static Love GenerateRandomLove()
-        {
-            string[] loveInterest = { "prince", "princess", "rogue", "knight", "sorcerer", "stable person", "criminal" };
-
-            Random rand = new Random();
-            int randomIndex = rand.Next(loveInterest.Length);
-            return new Love { loveInterest = loveInterest[randomIndex] };
-        }
-
-        public class Plot
-        {
-            public string plots { get; set; }
-            public string challenges { get; set; }
-            public string Goal;
-            public string Challenge;
+        // }
 
 
-        }
+        // public class Role
+        // {
+        //     public string role { get; set; }
+        // }
 
-        static Plot GenerateRandomPlot()
-        {
-            string[] plots = { "break the curse", "defeat the villian", "save the village", "defeat invaders", "find the lost artifact" };
-            string[] challenges = { "magical barrier", "guards", "hidden cave", "the king turned evil" };
+        // static Role GenerateRandomRole()
+        // {
+        //     Random rand = new Random();
+        //     string[] mainCharacterRole = { "blacksmith", "servant", "knight", "rogue", "criminal", "cook", "stable hand", "common folk", "wizard" };
+        //     return new Role { role = mainCharacterRole[rand.Next(mainCharacterRole.Length)] };
 
-            Random rand = new Random();
+        // }
 
-            return new Plot { Goal = plots[rand.Next(plots.Length)], Challenge = challenges[rand.Next(challenges.Length)] };
-        }
+        // public class Location
+        // {
+        //     public string Name;
+        //     public Location(string name)
+        //     {
+        //         Name = name;
+        //     }
+        // }
+        // static Location GenerateRandomLocation()
+        // {
 
-        class Items
-        {
-            public string item { get; set; }
+        //     Random rand = new Random();
+        //     string[] locations = { "forest", "castle", "village", "mansion", "ancient runes", "tavern", "haunted moutains" };
+        //     return new Location(locations[rand.Next(locations.Length)]);
+        // }
 
-        }
+        // public class Villain
+        // {
+        //     private string villain;
+        //     public string villainName
+        //     {
+        //         get { return villain; }
+        //         set { villain = value; }
+        //     }
 
-        static Items GenerateRandomItems()
-        {
-            Random rand = new Random();
-            string[] item = { "precious gem", "gold", "dagger", "sword", "map", "letter", "beer", "arrows" };
-            return new Items { item = item[rand.Next(item.Length)] };
+        // }
+
+        // static Villain GenerateRandomVillian()
+        // {
+
+        //     Random rand = new Random();
+        //     string[] villainType = { "warlock", "evil queen", "evil prince", "sorcerer" };
+        //     string[] villianCreature = { "dragon", "giant", "squid", "ogre" };
+        //     return new Villain { villainName = villainType[rand.Next(villainType.Length)] };
+
+        // }
+
+        // public class Weapon
+        // {
+        //     public string Name;
+        //     public Weapon(string name)
+        //     {
+        //         Name = name;
+        //     }
+
+        // }
+
+        // static Weapon GenerateRandonWeapon()
+        // {
+        //     Random rand = new Random();
+        //     string[] weapons = { "sword", "quarterstaff", "warhammer", "axe", "dagger", "cross bow", "long bow" };
+        //     int weaponStrength = 15;
+
+        //     return new Weapon(weapons[rand.Next(weapons.Length)]);
+
+        // }
+
+        // public class Love
+        // {
+        //     public string loveInterest { get; set; }
+
+        // }
+        // static Love GenerateRandomLove()
+        // {
+        //     string[] loveInterest = { "prince", "princess", "rogue", "knight", "sorcerer", "stable person", "criminal" };
+
+        //     Random rand = new Random();
+        //     int randomIndex = rand.Next(loveInterest.Length);
+        //     return new Love { loveInterest = loveInterest[randomIndex] };
+        // }
+
+        // public class Plot
+        // {
+        //     public string plots { get; set; }
+        //     public string challenges { get; set; }
+        //     public string Goal;
+        //     public string Challenge;
 
 
-        }
-    }
+        // }
+
+        // static Plot GenerateRandomPlot()
+        // {
+        //     string[] plots = { "break the curse", "defeat the villian", "save the village", "defeat invaders", "find the lost artifact" };
+        //     string[] challenges = { "magical barrier", "guards", "hidden cave", "the king turned evil" };
+
+        //     Random rand = new Random();
+
+        //     return new Plot { Goal = plots[rand.Next(plots.Length)], Challenge = challenges[rand.Next(challenges.Length)] };
+        // }
+
+    //     class Items
+    //     {
+    //         public string item { get; set; }
+
+    //     }
+
+    //     static Items GenerateRandomItems()
+    //     {
+    //         Random rand = new Random();
+    //         string[] item = { "precious gem", "gold", "dagger", "sword", "map", "letter", "beer", "arrows" };
+    //         return new Items { item = item[rand.Next(item.Length)] };
+
+
+    //     }
+    // }
 }

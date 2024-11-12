@@ -1,0 +1,15 @@
+/home/melissasw92/Week 6/Temperature_Converter/bin/Debug/net8.0/Temperature_Converter
+/home/melissasw92/Week 6/Temperature_Converter/bin/Debug/net8.0/Temperature_Converter.deps.json
+/home/melissasw92/Week 6/Temperature_Converter/bin/Debug/net8.0/Temperature_Converter.runtimeconfig.json
+/home/melissasw92/Week 6/Temperature_Converter/bin/Debug/net8.0/Temperature_Converter.dll
+/home/melissasw92/Week 6/Temperature_Converter/bin/Debug/net8.0/Temperature_Converter.pdb
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.AssemblyInfoInputs.cache
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.AssemblyInfo.cs
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.csproj.CoreCompileInputs.cache
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.sourcelink.json
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.dll
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/refint/Temperature_Converter.dll
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.pdb
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/Temperature_Converter.genruntimeconfig.cache
+/home/melissasw92/Week 6/Temperature_Converter/obj/Debug/net8.0/ref/Temperature_Converter.dll

@@ -12,3 +12,4 @@
 /home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.pdb
 /home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.genruntimeconfig.cache
 /home/melissasw92/StoryGenerator/obj/Debug/net8.0/ref/StoryGenerator.dll
+/home/melissasw92/StoryGenerator/obj/Debug/net8.0/StoryGenerator.sourcelink.json

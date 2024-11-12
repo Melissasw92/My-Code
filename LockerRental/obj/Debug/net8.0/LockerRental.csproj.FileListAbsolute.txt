@@ -1,0 +1,15 @@
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.AssemblyInfoInputs.cache
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.AssemblyInfo.cs
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.csproj.CoreCompileInputs.cache
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.sourcelink.json
+/home/melissasw92/LockerRental/bin/Debug/net8.0/LockerRental
+/home/melissasw92/LockerRental/bin/Debug/net8.0/LockerRental.deps.json
+/home/melissasw92/LockerRental/bin/Debug/net8.0/LockerRental.runtimeconfig.json
+/home/melissasw92/LockerRental/bin/Debug/net8.0/LockerRental.dll
+/home/melissasw92/LockerRental/bin/Debug/net8.0/LockerRental.pdb
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.dll
+/home/melissasw92/LockerRental/obj/Debug/net8.0/refint/LockerRental.dll
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.pdb
+/home/melissasw92/LockerRental/obj/Debug/net8.0/LockerRental.genruntimeconfig.cache
+/home/melissasw92/LockerRental/obj/Debug/net8.0/ref/LockerRental.dll

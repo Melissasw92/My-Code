@@ -12,3 +12,4 @@
 /home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.pdb
 /home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.genruntimeconfig.cache
 /home/melissasw92/EnemyEncounter/obj/Debug/net8.0/ref/EnemyEncounter.dll
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.sourcelink.json
