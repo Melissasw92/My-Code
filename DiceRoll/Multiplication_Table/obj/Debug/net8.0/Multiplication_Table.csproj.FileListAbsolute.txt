@@ -1,0 +1,14 @@
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/Multiplication_Table.AssemblyInfoInputs.cache
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/Multiplication_Table.AssemblyInfo.cs
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/Multiplication_Table.csproj.CoreCompileInputs.cache
+/home/melissasw92/DiceRoll/Multiplication_Table/bin/Debug/net8.0/Multiplication_Table
+/home/melissasw92/DiceRoll/Multiplication_Table/bin/Debug/net8.0/Multiplication_Table.deps.json
+/home/melissasw92/DiceRoll/Multiplication_Table/bin/Debug/net8.0/Multiplication_Table.runtimeconfig.json
+/home/melissasw92/DiceRoll/Multiplication_Table/bin/Debug/net8.0/Multiplication_Table.dll
+/home/melissasw92/DiceRoll/Multiplication_Table/bin/Debug/net8.0/Multiplication_Table.pdb
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/Multiplication_Table.dll
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/refint/Multiplication_Table.dll
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/Multiplication_Table.pdb
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/Multiplication_Table.genruntimeconfig.cache
+/home/melissasw92/DiceRoll/Multiplication_Table/obj/Debug/net8.0/ref/Multiplication_Table.dll

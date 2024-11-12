@@ -2,3 +2,13 @@
 /home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.AssemblyInfoInputs.cache
 /home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.AssemblyInfo.cs
 /home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.csproj.CoreCompileInputs.cache
+/home/melissasw92/EnemyEncounter/bin/Debug/net8.0/EnemyEncounter
+/home/melissasw92/EnemyEncounter/bin/Debug/net8.0/EnemyEncounter.deps.json
+/home/melissasw92/EnemyEncounter/bin/Debug/net8.0/EnemyEncounter.runtimeconfig.json
+/home/melissasw92/EnemyEncounter/bin/Debug/net8.0/EnemyEncounter.dll
+/home/melissasw92/EnemyEncounter/bin/Debug/net8.0/EnemyEncounter.pdb
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.dll
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/refint/EnemyEncounter.dll
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.pdb
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/EnemyEncounter.genruntimeconfig.cache
+/home/melissasw92/EnemyEncounter/obj/Debug/net8.0/ref/EnemyEncounter.dll

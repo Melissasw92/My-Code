@@ -1,0 +1,7 @@
+[user]
+	name = Melissasw92
+	email = melissa.wilson@atlasschool.com
+[init]
+	defaultBranch = main
+[core]
+	editor = emacs
